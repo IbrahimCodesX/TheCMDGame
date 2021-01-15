@@ -33,7 +33,7 @@ span{
 @keyframes type2{
   0%{width: 0;}
   50%{width: 0;}
-  100%{ width: 00; } 
+  100%{ width: 800; } 
 } 
 
 @keyframes blink{
