@@ -1,8 +1,8 @@
 body {
- background-color: black ;
+ background-color: black;
 }
 
 p {
+color: green;
  font-family: 'Source Code Pro', monospace ;
-  color:green ;
 }
