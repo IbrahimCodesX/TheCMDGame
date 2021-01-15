@@ -31,9 +31,9 @@ span{
 } 
 
 @keyframes type2{
-  0%{width: 0;}
+  0%{width: 900;}
   50%{width: 100;}
-  100%{ width: 200; } 
+  100%{ width: 100; } 
 } 
 
 @keyframes blink{
